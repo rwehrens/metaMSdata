@@ -1,7 +1,7 @@
 Package: metaMSdata
 Type: Package
 Title: Example CDF data for the metaMS package
-Version: 1.15.0
+Version: 1.16.0
 ZipData: no
 Authors@R: c(person("Ron", "Wehrens", role = c("aut", "cre"), email =
         "ron.wehrens@fmach.it"), person("Pietro", "Franceschi", role =
