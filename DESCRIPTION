@@ -1,7 +1,7 @@
 Package: metaMSdata
 Type: Package
 Title: Example CDF data for the metaMS package
-Version: 1.23.0
+Version: 1.23.1
 ZipData: no
 Authors@R: c(person("Ron", "Wehrens", role = c("aut", "cre"), email =
         "ron.wehrens@fmach.it"), person("Pietro", "Franceschi", role =
@@ -11,4 +11,4 @@ License: GPL (>= 2)
 biocViews: ExperimentData, MassSpectrometryData
 Author: Ron Wehrens [aut, cre], Pietro Franceschi [aut], Georg Weingart
         [ctb]
-Maintainer: Ron Wehrens <ron.wehrens@fmach.it>
+Maintainer: Yann Guitton <yann.guitton@gmail.com>
